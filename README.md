@@ -24,4 +24,4 @@ Start Project
 With the android and ios folders exposed, you can open an android folder directly in Android Studio and an ios folder directly in Xcode (by clicking the file - which is actually a folder - .xcworkspace) and run it as if it were a native app . You can even create native code and expose that code to gain access through React Native. In this project that I showed there, I use Bareworkflow precisely to be able to access the native code and have a more precise control of the GPS on each platform.
 
 # Links
-[Typescript Introduction RocketSeat](https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36)
+[Typescript Introduction RocketSeat](https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36) 
