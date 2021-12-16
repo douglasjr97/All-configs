@@ -1,4 +1,4 @@
-# VSCODE config
+# VSCODE config 
 
 Adjuste folders in VSCODE:
 
