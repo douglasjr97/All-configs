@@ -26,3 +26,8 @@ With the android and ios folders exposed, you can open an android folder directl
 # Links
 [Typescript Introduction RocketSeat](https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36) 
    
+   # Github alias
+   [alias]
+	st = !git status
+	c = !git add --all && git commit -m
+
