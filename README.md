@@ -7,7 +7,7 @@ Adjuste folders in VSCODE:
  
   
 # React Native Config ios chip M1
-
+ 
 Start Project
 
 1. npx react-native init seuapp
