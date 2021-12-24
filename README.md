@@ -1,7 +1,7 @@
 # VSCODE config
     
 Adjuste folders in VSCODE:
-  
+   
 1. go to settings.Json
 2. "explorer.compactFolders": true,
  
