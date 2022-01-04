@@ -3,7 +3,7 @@
 Adjuste folders in VSCODE:
      
 1. go to settings.Json
-2. "explorer.compactFolders": true,   
+2. "explorer.compactFolders": true,  
      
          
 # React Native Config ios chip M1
