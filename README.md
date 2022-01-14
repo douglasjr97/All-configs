@@ -40,5 +40,21 @@ $ [alias]
 	st = !git status
 	c = !git add --all && git commit -m
 ```
+
+# Prettier
+
+1. create archive:
+```
+.prettierrc
+
+```
+2. Write this code
+```
+{
+    "singleQuote": true,
+    "tabWidth": 2
+}
+```
+
   
 
